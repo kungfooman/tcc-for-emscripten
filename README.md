@@ -13,3 +13,6 @@ Steps to reproduce:
 	./doit_32.sh
 	git add doit_32.sh tcc.html tcc.js
 	git commit -m "Add build script and keep the output"
+	
+	
+Demo: http://killtube.org/downloads/emscripten/tcc/tcc.html
